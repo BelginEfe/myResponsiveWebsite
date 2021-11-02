@@ -1,5 +1,6 @@
 # My Responsive Website
 
+### Please click the link to visit the website : https://belginefe.github.io/myResponsiveWebsite/
 
 <img src="design/desktop-active-states.jpg" width="50%" height="20%">
 
@@ -7,7 +8,7 @@
 
 In this project I created a responsive website.
 
-### Please click the link to visit the website : https://belginefe.github.io/myResponsiveWebsite/
+
 
 ## Used Technologies
 
